@@ -1,8 +1,8 @@
 # PRA2_visualizacion
-    Autor: **Rubén Moya Vázquez**(*rmoyav@uoc.edu*)
-    Asignatura: **Visualización de datos**
-    Institución: **Universitat Oberta de Catalunya**
-    Fecha: **13/06/2022**
+    Autor: Rubén Moya Vázquez <rmoyav@uoc.edu>
+    Asignatura: Visualización de datos
+    Institución: Universitat Oberta de Catalunya
+    Fecha: 13/06/2022
 ## A9: Creación de la visualización y entrega del proyecto (Práctica II)
 Este repositorio contiene el código de un dashboard de visualización creado a partir del framerwor [Dash](https://dash.plotly.com/)
 de **Plotly** y los datos obtenidos de [Eurostat](https://link-url-here.org).
@@ -22,7 +22,8 @@ El repositorio contiene la siguiente arborescencia:
 Además de los archivos mencionados contamos con la hoja de estilos ``style.css`` obtenida de las plantillas de Dash. Se ha retocado levemente para ajustarse a nuestro dashboard.
 
 ### Dashboard
-El dashboard está accesible en la plataforma ``Heroku`` a través del siguiente link: [Fit or Fat (Europe's Edition)](https://google.es)
+El dashboard está accesible en la plataforma ``Heroku`` a través del siguiente link: [Fit or Fat (Europe's Edition)](https://fit-or-fat-eu.herokuapp.com/)
+
 
 ### Disclaimer
 This repository has been made just for educational purpouses. Any use outside of the mentioned is not recommended by the author.
